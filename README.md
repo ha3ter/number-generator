@@ -7,6 +7,6 @@ python3 range-number.py > /root/number.txt
 
 # number-generator-v2
 
-python3 range.number-v2.py
+python3 range-number-v2.py
 
 good luck
